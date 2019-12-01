@@ -1,5 +1,6 @@
 {
-  "name": "eth-ipfs",
+  "homepage": "./",
+  "name": "authentikos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
